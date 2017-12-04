@@ -6,10 +6,9 @@
 Welcome to Python Geoclue's documentation!
 ==========================================
 
-Contents:
-
 .. toctree::
    :maxdepth: 4
+   :caption: Contents
 
    Geoclue
 
